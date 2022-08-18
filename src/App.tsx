@@ -36,7 +36,7 @@ function App() {
           https://medium.com/swlh/how-to-testwith-jest-bfdb9bd40d86
         </p>
         <p>
-          Ou até mesmo ver esse React do Casimiro vendo vído do Corbucci <br />
+          Ou até mesmo ver esse React do Casimiro vendo vídeo do Corbucci <br />
           https://www.youtube.com/watch?v=z9NT4gAY3xk
         </p>
         <h2>A decisão é sua!</h2>
