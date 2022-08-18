@@ -10,9 +10,7 @@ function App() {
       <iframe
         src="https://www.youtube.com/embed/JkWMnad72bk"
         title="YouTube video player"
-        frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
       ></iframe>
       <div className="lyrics">
         <h1>Estudo do Tempo</h1>
